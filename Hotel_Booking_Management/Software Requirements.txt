@@ -1,0 +1,5 @@
+Operating System : Windows 10
+.NET Framework : Version 4.7.2
+Environment : Visual Studio 2022
+Language : C#.NET 
+Back end : SQL SERVER 2019 
